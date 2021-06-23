@@ -8,10 +8,16 @@ Securely collect browsing history over browsers.
 
 Here is the getting started guide. 
 
-Firstly, clone the git.
+Firstly, clone the git, and change to the directory.
 
 ```
 $ git clone [repo url] && cd visited 
+```
+
+And install the node packages.
+
+```
+$ npm install 
 ```
 
 Next, generate a client program for browser. Run the following.
