@@ -1,0 +1,21 @@
+{
+  "name": "visited-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.user.js",
+  "dependencies": {
+    "better-sqlite3": "^7.1.2",
+    "commander": "^6.2.1",
+    "mustache": "^4.1.0",
+    "prompt-confirm": "^2.0.4",
+    "prompts": "^2.4.0",
+    "sqlite3": "^5.0.0",
+    "ws": "^7.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
